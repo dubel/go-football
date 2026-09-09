@@ -2,6 +2,8 @@
 
 Local 2-player top-down football (soccer) built with [Ebitengine](https://ebitengine.org).
 
+![Example gameplay](docs/gameplay.png)
+
 Art from [Kenney Sports Pack](https://kenney.nl/assets/sports-pack) (CC0). Credit: Kenney Vleugels (www.kenney.nl).
 
 ## Run
